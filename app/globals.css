@@ -90,6 +90,8 @@ h1,h2,h3,h4,h5,h6{color:#0D1A3A}.hero,.ty-hero{background-color:#F4F7FB}.hero:be
 .flodesk-wrapper [data-ff-el="root"] .fd-form-captcha{width:100%!important;justify-content:center!important}.flodesk-wrapper [data-ff-el="root"] .fd-form-captcha>.fd-form-group:not([style*="display: none"]){justify-content:center!important}
 .flodesk-wrapper [data-ff-el="root"] .fd-form-captcha>.fd-form-group:not([style*="display: none"]) .fd-form-check{display:inline-flex!important;align-items:center!important;justify-content:center!important;gap:10px!important;padding-left:0!important;margin:0!important;width:auto!important}.flodesk-wrapper [data-ff-el="root"] .fd-form-captcha>.fd-form-group:not([style*="display: none"]) .fd-form-check__input{left:0!important;width:18px!important;height:18px!important}.flodesk-wrapper [data-ff-el="root"] .fd-form-captcha>.fd-form-group:not([style*="display: none"]) .fd-form-check__checkmark{position:relative!important;top:auto!important;left:auto!important;flex:0 0 18px!important}.flodesk-wrapper [data-ff-el="root"] .fd-form-captcha>.fd-form-group:not([style*="display: none"]) .fd-form-check__label{flex:0 0 auto!important;width:auto!important}
 .flodesk-wrapper [data-ff-el="root"] .fd-form-captcha>.fd-form-group:not([style*="display: none"]) .fd-form-check__label{display:inline-flex!important;align-items:center!important;min-height:18px!important;height:18px!important;line-height:18px!important;margin:0!important;padding:0!important;vertical-align:middle!important;position:static!important;top:auto!important;left:auto!important}
+.whatsapp-logo svg{display:block;width:20px;height:20px}
+.whatsapp-logo::before{display:none}
 
 /* Use a real WhatsApp mark for the contact CTA. */
 .whatsapp-logo svg{display:none}
